@@ -9,7 +9,14 @@ const handleListening = () =>
 const handleHome = (req, res) => res.send("Home");
 const handleProfile = (req, res) => res.send("Profile");
 
-app.get("/", handleHome);
+const betweenHome = (req, res, next) => {
+  console.log("Between Home");
+  next();
+};
+
+app.use(betweenHome);
+
+app.get("/", betweenHome, handleHome);
 app.get("/profile", handleProfile);
 
 app.listen(PORT, handleListening);
