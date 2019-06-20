@@ -1,0 +1,19 @@
+{
+  "name": "utube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and Node JS",
+  "main": "/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romi0804/UTube.git"
+  },
+  "author": "Romi Ham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romi0804/UTube/issues"
+  },
+  "homepage": "https://github.com/Romi0804/UTube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
