@@ -6,6 +6,19 @@ Cloning Youtube with Vanilla and Node JS
 
 ---
 
+## Pages
+
+- [ ] Home
+- [ ] Join
+- [ ] Login
+- [x] Search
+- [ ] User Detail
+- [ ] Edit Profile
+- [ ] Change Password
+- [ ] Upload
+- [ ] Video Detail
+- [ ] Edit Video
+
 #### 만들기능 (Required Build up function)
 
 - Browser 에서 녹화하기
