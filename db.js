@@ -4,7 +4,8 @@ export const videos = [
     title: "Video Test 1",
     description: "Video Test 1 test",
     views: "24",
-    vidoeFile: "https://youtu.be/HW_ioSt52LA",
+    vidoeFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creators: {
       id: 1002,
       name: "Romi",
