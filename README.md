@@ -16,8 +16,8 @@ Cloning Youtube with Vanilla and Node JS
 - [ ] Edit Profile
 - [ ] Change Password
 - [ ] Upload
-- [ ] Video Detail
-- [ ] Edit Video
+- [x] Video Detail
+- [x] Edit Video
 
 #### 만들기능 (Required Build up function)
 
